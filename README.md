@@ -15,6 +15,7 @@ Requirements:
   - 410.57 - http://us.download.nvidia.com/XFree86/Linux-x86_64/410.57/NVIDIA-Linux-x86_64-410.57.run
   - 410.73 - http://us.download.nvidia.com/XFree86/Linux-x86_64/410.73/NVIDIA-Linux-x86_64-410.73.run
   - 410.78 - http://us.download.nvidia.com/XFree86/Linux-x86_64/410.78/NVIDIA-Linux-x86_64-410.78.run
+  - 415.18 - http://us.download.nvidia.com/XFree86/Linux-x86_64/415.18/NVIDIA-Linux-x86_64-415.18.run
 
 
 Tested on Ubuntu 18.04 LTS (GNU/Linux 4.15.0-23-generic x86_64)
